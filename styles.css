@@ -1,0 +1,58 @@
+body{
+  background-color: #F5D04E;
+  border-radius: 10px;
+  }
+.container{
+  position: relative;
+  top: 100px;
+  background-color: white;
+  height: 500px;
+  width: 400px;
+  margin: auto;
+}
+.illustration-img{
+  position: relative;
+  top: 20px;
+  left: 32px;
+  right: 32px;
+  margin: auto;
+  border-radius: 5%;
+}
+.avtr{
+  margin-right: 20px;
+  padding-left: 20px;
+  margin-top: 10px;
+  float: left;
+  }
+.avtr-name{
+  margin: 0 auto 50px;
+  padding-top: 30px;
+}
+.h22 {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+span{
+  background-color: #F4D04E;
+  border-radius: 5%;
+}
+.h21 {
+    margin-left: 20px;
+  }
+H4 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+p{
+  margin-left: 20px;
+}
+.container{
+  border-left:solid 1px;
+  border-right:solid 6px;
+  border-top:solid 1px;
+  border-bottom:solid 6px;
+  border-radius: 5%;
+}
+.attribution{
+position: relative;
+top: 200px;}
